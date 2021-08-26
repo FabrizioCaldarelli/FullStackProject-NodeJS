@@ -1,0 +1,12 @@
+{
+  "name": "full-stack-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "author": "Fabrizio Caldarelli",
+  "license": "MIT"
+}
