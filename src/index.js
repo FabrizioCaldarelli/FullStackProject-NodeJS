@@ -3,8 +3,7 @@ const { mkdirSync, existsSync } = require("fs");
 
 const folders = [
     'http/api/controllers', 'http/api/routes',
-    'http/frontend/controllers', 'http/frontend/routes',
-    'http/backend/controllers', 'http/frontend/routes',
+    'http/frontend/pages',
     'socket/chat',
     'console/controllers', 'console/routes',
     'shared/database/models', 'shared/database/migrations', 'shared/database/services',
