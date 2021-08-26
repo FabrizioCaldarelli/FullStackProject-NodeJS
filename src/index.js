@@ -7,9 +7,10 @@ const folders = [
     'http/backend/controllers', 'http/frontend/routes',
     'socket/chat',
     'console/controllers', 'console/routes',
-    'database/models', 'database/migrations', 'database/services',
-    'events/services',
-    'app/services',
+    'shared/database/models', 'shared/database/migrations', 'shared/database/services',
+    'shared/events',
+    'shared/services',
+    'app/bootstrap',
 ]
 
 function log(text)
